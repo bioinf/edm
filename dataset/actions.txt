@@ -1,0 +1,27 @@
+action,name
+1,View problem
+2,Expand block
+3,Collapse block
+4,View term
+5,Go to Wikipedia
+6,View glossary
+7,View figure
+8,View comments
+9,View profile
+10,View locations
+11,View location
+12,View topics
+13,View topic
+14,View badges
+15,View badge
+16,View achievements
+17,View achievement
+18,View suggested problems
+19,View suggested problem
+20,View countries
+21,View country
+22,View levels
+23,View level
+24,View Top 100
+25,View primary strand
+26,View complementary strand
